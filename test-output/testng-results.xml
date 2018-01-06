@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15296" started-at="2018-01-06T08:23:12Z" finished-at="2018-01-06T08:23:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15296" started-at="2018-01-06T08:23:12Z" finished-at="2018-01-06T08:23:27Z">
+      <class name="Sort">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Sort@50c87b21]" name="setUp" is-config="true" duration-ms="15005" started-at="2018-01-06T13:53:12Z" finished-at="2018-01-06T13:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Sort@50c87b21]" name="test" duration-ms="259" started-at="2018-01-06T13:53:27Z" finished-at="2018-01-06T13:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Sort -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
